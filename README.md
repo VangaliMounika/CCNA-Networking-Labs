@@ -16,7 +16,7 @@ Each lab includes detailed configurations, topology diagrams, and step-by-step i
 8. Troubleshooting Static Routes – Identify and resolve common issues with static routing misconfigurations.
 9. VLANs – Configure Virtual LANs (VLANs) to segment network traffic and improve security and efficiency.
 10. VLSM (Variable Length Subnet Masking) – Optimize IP address allocation using subnetting techniques for efficient network design.
-11. 
+
 **Requirements**
 Cisco Packet Tracer or GNS3 for network simulation
 Basic knowledge of Cisco CLI commands
